@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Sachin Gaikwad and I'm an undergraduate at IIT (BHU) Varanasi, from ....</p>
 
 ###
 
