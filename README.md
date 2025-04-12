@@ -33,20 +33,7 @@
 
 <h2 align="left">🌱 Let's Connect</h2>
 
-<p align="left">Always open to interesting ideas, collaborations, or just geeking out over cool AI projects! Feel free to connect with me on <a href="https://www.linkedin.com/in/sachingaikwad/">LinkedIn</a>.</p>
+<p align="left">Always open to interesting ideas, collaborations, or just geeking out over cool AI projects! Feel free to connect with me on <a href="https://www.linkedin.com/in/sachin-gaikwad-0b3b3224b/">LinkedIn</a>.</p>
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachingaikwad&show_icons=true&theme=radical" alt="Sachin's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachingaikwad&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachingaikwad&layout=compact&theme=radical" alt="Top Languages" />
-</p>
