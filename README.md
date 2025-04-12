@@ -10,7 +10,6 @@
   <li>✨ Turning caffeine into models and bugs (occasionally both)</li>
   <li>📚 Currently learning advanced generative models, computer vision, and interpretability in AI</li>
   <li>🎯 On a mission to build AI systems that are not only smart but useful</li>
-  <li>🎲 Fun fact: I love breaking down complex concepts into simple ideas — sometimes to the point my friends think I talk like a textbook with emojis</li>
 </ul>
 
 ---
@@ -21,8 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img width="12" />
