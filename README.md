@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">I'm Sachin Gaikwad, an undergraduate student at IIT (BHU) Varanasi, India — passionate about exploring the world of Machine Learning, Artificial Intelligence, and Data-driven Research.</p>
+<p align="left">I'm Sachin Gaikwad, a computer science undergraduate student at IIT (BHU) Varanasi, India — passionate about exploring the world of Machine Learning, Artificial Intelligence, and Data-driven Research.</p>
 
 ---
 
